@@ -20,7 +20,7 @@ book-impl/
 │   ├── ch03_wsl2_docker.ipynb
 │   ├── ch25_pancreas_e2e.ipynb   ← 膵がん検出のE2E
 │   └── ...
-├── code/               ← 章をまたいで使う部品（Dataset、損失関数、評価指標など）
+├── code/               ← 章をまたいで使う共通コード（Dataset、損失関数、評価指標など）
 │   ├── datasets.py
 │   ├── losses.py
 │   └── metrics.py
